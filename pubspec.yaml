@@ -11,6 +11,7 @@ dependencies:
     sdk: flutter
   arcore_flutter_plugin: ^0.1.0
   vector_math: ^2.1.0
+  google_fonts: 
 
 dev_dependencies:
   flutter_test:
@@ -19,3 +20,17 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/AndroidRobot.gif
+    - assets/ArcticFox.gif
+    - assets/copertina.jpg
+    - assets/earth_augmented_image.jpg
+    - assets/earth.jpg
+    - assets/fox_face_mesh_texture.png
+    - assets/prova_texture.png
+    - assets/TocoToucan.gif
+    - assets/topolino.jpg
+    - assets/umano_digitale.png
+    - assets/venom_with_eyes.jpg
+    - assets/venom.jpg
